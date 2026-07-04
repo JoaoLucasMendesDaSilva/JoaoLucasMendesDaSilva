@@ -2,15 +2,15 @@
 
 # João Lucas Mendes da Silva
 
-### Desenvolvedor Full Stack • Estudante de Engenharia de Software
+### Desenvolvedor em formação • Técnico em Desenvolvimento de Sistemas
 
-Construindo aplicações web modernas com **React**, **Node.js** e **MySQL**.
+Construindo aplicações web e estudando tecnologia com foco em **Dados**, **IA** e **Desenvolvimento de Sistemas**.
 
 <br>
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-Em_breve-181717?style=for-the-badge&logo=github)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joaolucas18/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/_ojotinhaa/?theme=dark)
+[![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail)](mailto:jlmendes527@gmail.com)
 
 </div>
 
@@ -18,11 +18,13 @@ Construindo aplicações web modernas com **React**, **Node.js** e **MySQL**.
 
 # 👋 Sobre mim
 
-Sou estudante de Engenharia de Software e desenvolvedor focado em criar aplicações web modernas, intuitivas e funcionais.
+Sou estudante do curso técnico em **Desenvolvimento de Sistemas**, com interesse em tecnologia, programação, dados e inteligência artificial.
 
-Tenho interesse em desenvolvimento Full Stack, interfaces bem construídas, organização de sistemas e criação de soluções que sejam úteis no mundo real.
+Atualmente estou desenvolvendo projetos para fortalecer minha base em desenvolvimento web, lógica de programação, banco de dados e construção de sistemas completos.
 
-Atualmente estou desenvolvendo o **Agendai**, uma plataforma completa de agendamentos para pequenos negócios.
+Meu objetivo é evoluir na área de tecnologia e, futuramente, atuar como **Engenheiro de Dados** ou **Engenheiro de IA**, criando soluções que usem dados, automação e inteligência artificial de forma prática e eficiente.
+
+No momento, meu principal projeto é o **Agendai**, uma plataforma de agendamentos desenvolvida como projeto de TCC.
 
 ---
 
@@ -72,7 +74,7 @@ O **Agendai** é uma plataforma de agendamentos desenvolvida para pequenos negó
 <img src="https://skillicons.dev/icons?i=react,vite,js,html,css" />
 </p>
 
-### Back-end
+### Back-end e Banco de Dados
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
@@ -123,12 +125,12 @@ O **Agendai** é uma plataforma de agendamentos desenvolvida para pequenos negó
 
 # 🎯 Objetivos atuais
 
-- Evoluir como desenvolvedor Full Stack
-- Melhorar minhas habilidades em UI/UX
-- Criar aplicações web mais completas e profissionais
-- Aprender TypeScript
-- Aprender Next.js
-- Desenvolver projetos com foco em portfólio
+- Evoluir em Desenvolvimento de Sistemas
+- Fortalecer minha base em lógica de programação
+- Melhorar meus conhecimentos em banco de dados
+- Aprender mais sobre análise e engenharia de dados
+- Estudar inteligência artificial e automação
+- Criar projetos completos para portfólio
 - Finalizar e apresentar o Agendai como projeto de TCC
 
 ---
@@ -136,13 +138,13 @@ O **Agendai** é uma plataforma de agendamentos desenvolvida para pequenos negó
 # 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/joaolucas18/
-- Instagram: https://www.instagram.com/_ojotinhaa/
+- Instagram: https://www.instagram.com/_ojotinhaa/?theme=dark
 - Email: jlmendes527@gmail.com
 
 ---
 
 <div align="center">
 
-*"Código é o encontro entre lógica, criatividade e solução."*
+*"Tecnologia é transformar ideias em soluções reais."*
 
 </div>
