@@ -112,7 +112,6 @@ O **Agendai** é uma plataforma de agendamentos desenvolvida para pequenos negó
 </p>
 
 </div>
----
 
 # ⭐ Projetos em destaque
 
