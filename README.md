@@ -135,9 +135,9 @@ O **Agendai** é uma plataforma de agendamentos desenvolvida para pequenos negó
 
 # 📫 Contato
 
-- LinkedIn: COLE_SEU_LINKEDIN_AQUI
-- Instagram: COLE_SEU_INSTAGRAM_AQUI
-- Email: gallaxycollpse123@gmail.com
+- LinkedIn: https://www.linkedin.com/in/joaolucas18/
+- Instagram: https://www.instagram.com/_ojotinhaa/
+- Email: jlmendes527@gmail.com
 
 ---
 
