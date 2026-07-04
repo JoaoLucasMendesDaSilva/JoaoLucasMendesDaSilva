@@ -92,9 +92,17 @@ O **Agendai** é uma plataforma de agendamentos desenvolvida para pequenos negó
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JoaoLucasMendesDaSilva&show_icons=true&theme=github_dark&hide_border=true"/>
+<img 
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=JoaoLucasMendesDaSilva&show_icons=true&theme=dark&hide_border=true&locale=pt-br"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLucasMendesDaSilva&layout=compact&theme=github_dark&hide_border=true"/>
+<br><br>
+
+<img 
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLucasMendesDaSilva&layout=compact&theme=dark&hide_border=true&locale=pt-br"
+/>
 
 </div>
 
