@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="./banner_github.png" alt="Banner do perfil de João Lucas" width="100%" />
+</div>
+
+<br>
+<div align="center">
 
 # João Lucas Mendes da Silva
 
