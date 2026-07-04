@@ -158,8 +158,8 @@ Além de ser meu projeto de TCC, ele representa minha evolução no desenvolvime
 - Evoluir em Desenvolvimento de Sistemas
 - Fortalecer minha base em lógica de programação
 - Melhorar meus conhecimentos em banco de dados
-- Aprender mais sobre análise e engenharia de dados
-- Estudar inteligência artificial e automação
+- Estudar análise de dados, engenharia de dados e inteligência artificial
+- Aprender Python com foco em dados e automação
 - Criar projetos completos para portfólio
 - Finalizar e apresentar o Agendai como projeto de TCC
 
