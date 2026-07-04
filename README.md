@@ -9,8 +9,8 @@ Construindo aplicações web modernas com **React**, **Node.js** e **MySQL**.
 <br>
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-Em_breve-181717?style=for-the-badge&logo=github)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](COLE_SEU_LINKEDIN_AQUI)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](COLE_SEU_INSTAGRAM_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joaolucas18/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/_ojotinhaa/?theme=dark)
 
 </div>
 
