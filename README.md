@@ -30,13 +30,44 @@ No momento, meu principal projeto é o **Agendai**, uma plataforma de agendament
 
 # 🚀 Projeto em destaque
 
+<div align="center">
+
 ## Agendai
 
-O **Agendai** é uma plataforma de agendamentos desenvolvida para pequenos negócios, permitindo que empreendedores gerenciem serviços, profissionais, clientes e horários de forma simples e organizada.
+### Plataforma moderna de agendamentos para pequenos negócios
 
-### Principais funcionalidades
+Sistema completo para gestão de serviços, profissionais, clientes e horários, desenvolvido como projeto de TCC no curso técnico em Desenvolvimento de Sistemas.
 
-- Autenticação com JWT
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Vercel](https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![Railway](https://img.shields.io/badge/Railway-20232A?style=for-the-badge&logo=railway&logoColor=FFFFFF)
+
+<br><br>
+
+[![Deploy](https://img.shields.io/badge/Acessar_Projeto-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://tcc-agendamento.vercel.app/)
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoLucasMendesDaSilva/tcc-agendamento)
+
+</div>
+
+---
+
+## Sobre o Agendai
+
+O **Agendai** é uma aplicação web criada para ajudar pequenos negócios a organizarem seus atendimentos de forma simples, moderna e acessível.
+
+A plataforma permite que o empreendedor cadastre seu negócio, configure serviços e profissionais, acompanhe agendamentos, visualize métricas no dashboard e compartilhe uma página pública para que clientes possam marcar horários online.
+
+---
+
+## Funcionalidades principais
+
+- Autenticação de usuários com JWT
 - Dashboard com métricas reais
 - Gestão de clientes
 - Gestão de serviços
@@ -49,22 +80,17 @@ O **Agendai** é uma plataforma de agendamentos desenvolvida para pequenos negó
 - Relatórios em PDF
 - Modo escuro
 - Suporte PWA
-- Design responsivo
-- Personalização com logo e banner
-
-### Tecnologias utilizadas
-
-- React
-- Vite
-- Node.js
-- Express
-- MySQL
-- JWT
-- CSS
-- Railway
-- Vercel
+- Layout responsivo
+- Upload de logo e banner
+- Personalização visual do negócio
 
 ---
+
+## Objetivo do projeto
+
+O objetivo do **Agendai** é unir desenvolvimento web, banco de dados, experiência do usuário e organização de sistemas em uma solução prática para microempreendedores.
+
+Além de ser meu projeto de TCC, ele representa minha evolução no desenvolvimento de aplicações completas, desde o front-end até o back-end e deploy.
 
 # 💻 Tecnologias
 
