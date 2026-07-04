@@ -90,13 +90,17 @@ O **Agendai** é uma plataforma de agendamentos desenvolvida para pequenos negó
 
 # 📊 Estatísticas do GitHub
 
+<p align="center">
+  Um resumo da minha atividade, tecnologias mais usadas e evolução no GitHub.
+</p>
+
 <div align="center">
 
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoLucasMendesDaSilva&theme=github_dark"
 />
 
-<br><br>
+<br><br><br>
 
 <p align="center">
   <img 
@@ -108,15 +112,6 @@ O **Agendai** é uma plataforma de agendamentos desenvolvida para pequenos negó
 </p>
 
 </div>
-
-# 🔥 Sequência de contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=JoaoLucasMendesDaSilva&theme=github-dark&hide_border=true"/>
-
-</div>
-
 ---
 
 # ⭐ Projetos em destaque
