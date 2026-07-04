@@ -92,6 +92,8 @@ O objetivo do **Agendai** é unir desenvolvimento web, banco de dados, experiên
 
 Além de ser meu projeto de TCC, ele representa minha evolução no desenvolvimento de aplicações completas, desde o front-end até o back-end e deploy.
 
+---
+
 # 💻 Tecnologias
 
 ### Front-end
@@ -143,12 +145,11 @@ Além de ser meu projeto de TCC, ele representa minha evolução no desenvolvime
 
 | Projeto | Descrição |
 |--------|-----------|
-| 🚀 Agendai | Plataforma completa de agendamentos para pequenos negócios |
-| 📚 Biblioteca API | API REST para gerenciamento de biblioteca usando Node.js e Express |
-| ✅ Todo List | Sistema de gerenciamento de tarefas pessoais com HTML, CSS e JavaScript |
-| 🌐 Página Pessoal | Página pessoal responsiva desenvolvida com HTML e CSS |
-| 🤖 Projeto Android | Página temática sobre Android criada durante estudos de HTML e CSS |
-| 📖 Projeto Cordel | Página visual inspirada em literatura de cordel |
+| 🚀 **Agendai** | Plataforma completa de agendamentos para pequenos negócios |
+| 📚 **Biblioteca API** | API REST para gerenciamento de biblioteca usando Node.js e Express |
+| ✅ **Todo List** | Sistema de gerenciamento de tarefas pessoais com HTML, CSS e JavaScript |
+| 🤖 **Projeto Android** | Página temática sobre a história do Android criada durante estudos de HTML e CSS |
+| 📖 **Projeto Cordel** | Página visual inspirada em literatura de cordel |
 
 ---
 
